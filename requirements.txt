@@ -1,0 +1,14 @@
+scikit-learn
+opencv-python
+numpy
+sounddevice
+tensorflow
+pyaudio
+SpeechRecognition
+pyttsx3
+spacy
+ultralytics
+torch
+scipy
+timm
+colorama
