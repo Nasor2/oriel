@@ -7,6 +7,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 **ORIEL** is a technological assistance prototype designed to enhance the autonomy of visually impaired individuals. Leveraging advanced **Artificial Intelligence**, **Computer Vision**, and **Natural Language Processing (NLP)** techniques, the system interprets the environment in real-time and provides auditory feedback regarding obstacles, risks, and walkable paths.
 
