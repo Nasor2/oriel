@@ -1,5 +1,9 @@
 # ORIEL: Intelligent Assistance System Based on Computer Vision
 
+<p align="center">
+    <img src="https://github.com/Nasor2/oriel/blob/main/oriel.jpeg" alt="ORIEL Logo Banner" width="100%"/>
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
